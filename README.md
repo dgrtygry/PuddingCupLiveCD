@@ -1,2 +1,2 @@
 # PuddingCupLiveCD
-The LiveCDs of PuddingCup
+GUI made using Aura. I did not make the GUI. All rights to the DosCore project

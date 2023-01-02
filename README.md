@@ -1,4 +1,6 @@
 # PuddingCupLiveCD
-GUI made using Aura. I did not make the GUI. All rights to the DosCore project
+The Mobile OS of the future.
 
-Current version is 13.
+Source Code is in releases.
+
+CDs in releases.
